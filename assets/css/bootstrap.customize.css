@@ -36,3 +36,11 @@ body {
   font-size: 21px;
   padding: 14px 24px;
 }
+
+.marketing {
+    margin-top: 60px;
+}
+
+.marketing h4{
+    text-align: center;
+}

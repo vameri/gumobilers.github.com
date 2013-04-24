@@ -27,6 +27,12 @@ body {
   width: 100%;
 }
 
+.container-narrow h3{
+  width: 100%;
+  padding 50px 0;
+  text-align: center;
+}
+
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
